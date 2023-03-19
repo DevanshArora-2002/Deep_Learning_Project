@@ -6,7 +6,9 @@ Link to Kaggle problem: https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 Link to Dataset: https://drive.google.com/drive/folders/1Ff4BIyLYuRQed3X18aYfpxn5ZZOre7Q0?usp=sharing
 
-The Files must be downloaded in the following manner for to used in Google Colab
+For simply using the data directly upload the two Folders containing the data in the same folder as the code.
+
+The Files must be downloaded in the following manner for to used in Google Colab.
 
 
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/88950223/226143382-7901983b-14dc-4d5e-8887-f40388db1deb.png">
